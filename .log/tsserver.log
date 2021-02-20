@@ -42,3 +42,12 @@ Info 14   [1:19:5.357] Finishing updateGraphWorker: Project: /dev/null/inferredP
 Info 15   [1:19:5.357] Structure before ensureProjectForOpenFiles:
 Info 16   [1:19:5.357] Structure after ensureProjectForOpenFiles:
 Info 17   [1:19:5.357] got projects updated in background, updating diagnostics for 
+Info 18   [12:58:13.67] Search path: /home/shane/var/smulliga/source/git/Nishk23/spaCy-Custom-NER-creation
+Info 19   [12:58:13.67] For info: /home/shane/var/smulliga/source/git/Nishk23/spaCy-Custom-NER-creation/NER solution.ipynb :: No config files found.
+Info 20   [12:58:13.68] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 21   [12:58:13.171] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: true Elapsed: 103ms
+Info 22   [12:58:13.607] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 23   [12:58:13.615] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: false Elapsed: 8ms
+Info 24   [12:58:13.615] Structure before ensureProjectForOpenFiles:
+Info 25   [12:58:13.615] Structure after ensureProjectForOpenFiles:
+Info 26   [12:58:13.615] got projects updated in background, updating diagnostics for /home/shane/var/smulliga/source/git/Nishk23/spaCy-Custom-NER-creation/NER solution.ipynb

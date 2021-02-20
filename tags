@@ -1,0 +1,26 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+TRAIN_DATA	NER solution.py	/^TRAIN_DATA = [$/;"	v
+doc	NER solution.py	/^    doc = nlp(text)$/;"	v
+doc	NER solution.py	/^    doc = nlp2(text)$/;"	v
+docx1	NER solution.py	/^docx1 = nlp1(u"Who is Nishanth?")$/;"	v
+docx2	NER solution.py	/^docx2 = nlp1(u"Who is Kamal Khumar?")$/;"	v
+drop	NER solution.py	/^                drop=0.5,$/;"	v
+losses	NER solution.py	/^                losses=losses)$/;"	v
+losses	NER solution.py	/^        losses = {}$/;"	v
+model	NER solution.py	/^model = None$/;"	v
+n_iter	NER solution.py	/^n_iter=100$/;"	v
+ner	NER solution.py	/^    ner = nlp.create_pipe('ner')$/;"	v
+ner	NER solution.py	/^    ner = nlp.get_pipe('ner')$/;"	v
+nlp	NER solution.py	/^    nlp = spacy.blank('en')$/;"	v
+nlp	NER solution.py	/^    nlp = spacy.load(model)$/;"	v
+nlp1	NER solution.py	/^nlp1 = spacy.load('en_core_web_lg')$/;"	v
+nlp2	NER solution.py	/^nlp2 = spacy.load(output_dir)$/;"	v
+optimizer	NER solution.py	/^    optimizer = nlp.begin_training()$/;"	v
+output_dir	NER solution.py	/^    output_dir = Path(output_dir)$/;"	v
+output_dir	NER solution.py	/^output_dir=Path("C:\\\\Users\\\\nithi\\\\Documents\\\\ner")$/;"	v
+sgd	NER solution.py	/^                sgd=optimizer,$/;"	v
